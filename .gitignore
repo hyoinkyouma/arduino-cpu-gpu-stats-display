@@ -1,0 +1,11 @@
+pc-thermometer-desktop-service/__pycache__
+pc-thermometer-desktop-service/build
+pc-thermometer-desktop-service/dist/pc-monitor-arduino.exe
+pc-thermometer-desktop-service/dist/app.exe
+pc-thermometer-desktop-service/dist/app/
+pc-thermometer-desktop-service/env
+arduino-pc-thermometer/*.pio
+arduino-pc-thermometer/*.vscode/.browse.c_cpp.db*
+arduino-pc-thermometer/*.vscode/c_cpp_properties.json
+arduino-pc-thermometer/*.vscode/launch.json
+arduino-pc-thermometer/*.vscode/ipch

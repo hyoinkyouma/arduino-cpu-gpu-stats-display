@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../.."
+		},
+		{
+			"name": "Arduino Temp Sensor",
+			"path": ".."
+		},
+		{
+			"name": "esp32-pc-temp-sensor",
+			"path": "../../../../Documents/PlatformIO/Projects/esp32-pc-temp-sensor"
+		}
+	],
+	"settings": {}
+}
