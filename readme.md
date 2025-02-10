@@ -17,7 +17,7 @@
 1. Install python dependencies (pip install requirements.txt)
 2. Change COMPORT global variable to your arduino's serial com port
 3. Create an exe using pyinstaller (pyinstaller app.spec)
-4. Create a windows server using included bat file in dist folder
+4. Create a windows service using included bat file in dist folder
 
 ## Dependencies
 
